@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello world
 19:50
+=======
+hello
+>>>>>>> parent of 3ac1651 (更新 learn2.txt)
